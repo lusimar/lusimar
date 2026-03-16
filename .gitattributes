@@ -1,0 +1,4 @@
+*.php linguist-detectable=false
+*.css linguist-detectable=false
+*.html linguist-detectable=false
+*.blade.php linguist-detectable=false
