@@ -1,60 +1,50 @@
 <h1 align="center">👋 Olá, eu sou Lusimar Pinheiro</h1>
 
 <p align="center">
+Tech Lead | Data & Analytics | Automação
+</p>
+
+<p align="center">
 Profissional de tecnologia com mais de <b>10 anos de experiência</b> em desenvolvimento, dados e liderança de times técnicos.
 </p>
 
 <p align="center">
-Atuei como <b>Gerente de Tecnologia</b>, liderando equipes de BI, CRM e desenvolvimento, construindo soluções de dados, automação e analytics para marketing e e-commerce.
-</p>
-
-<p align="center">
-🎯 Foco atual: Data Platforms • Analytics • Automação • Tech Leadership
+Atuei como <b>Gerente de Tecnologia</b> liderando equipes de BI, CRM e desenvolvimento, criando soluções de dados para marketing e e-commerce.
 </p>
 
 ---
 
-<h2>🚀 Sobre mim</h2>
+## 🚀 Sobre mim
 
-<ul>
-<li>👨‍💻 +10 anos trabalhando com tecnologia</li>
-<li>👥 Liderança de times técnicos (BI, CRM e Desenvolvimento)</li>
-<li>📊 Construção de pipelines de dados e dashboards</li>
-<li>⚙️ Automação de processos com Python</li>
-<li>☁️ Experiência com Cloud e integração de APIs</li>
-</ul>
+- 👨‍💻 +10 anos trabalhando com tecnologia
+- 👥 Liderança de times técnicos (BI, CRM e Desenvolvimento)
+- 📊 Construção de pipelines de dados e dashboards
+- ⚙️ Automação de processos com Python
+- ☁️ Experiência com Cloud (AWS, Azure, GCP)
 
 ---
 
-<h2>🧠 Tech Stack</h2>
+## 🧠 Tech Stack
 
-<h3>Data & Analytics</h3>
+### Data & Analytics
 
-<p>
 Python • SQL • Data Pipelines • ETL • Analytics • APIs
-</p>
 
-<h3>Data Platforms</h3>
+### Data Platforms
 
-<p>
 Databricks • BigQuery • Looker Studio • Power BI
-</p>
 
-<h3>Cloud</h3>
+### Cloud
 
-<p>
 AWS • Azure • Google Cloud Platform
-</p>
 
-<h3>Engineering</h3>
+### Engineering
 
-<p>
-Node.js • React • PHP • JavaScript
-</p>
+Node.js • React • JavaScript • PHP
 
 ---
 
-<h2>📊 GitHub Stats</h2>
+## 📊 GitHub Stats
 
 <p align="center">
 
@@ -66,60 +56,35 @@ Node.js • React • PHP • JavaScript
 
 ---
 
-<h2>📦 Projetos em destaque</h2>
+## 📦 Projetos em destaque
 
-<h3>📊 Data Pipeline de Vendas</h3>
+### 📊 Data Pipeline de Vendas
+Pipeline em Python que coleta dados de APIs e envia para análise em dashboards.
 
-Pipeline de dados em Python que coleta dados, processa informações e envia automaticamente para análise.
+### 📈 Marketing Analytics Pipeline
+Pipeline para análise de campanhas e cálculo de métricas como CPL e performance de canais.
 
-Tecnologias utilizadas:
-Python • APIs • Google Sheets • Data Processing
-
----
-
-<h3>📈 Marketing Analytics Pipeline</h3>
-
-Pipeline para análise de campanhas de marketing, com cálculo de KPIs como CPL, custo por canal e performance.
-
-Tecnologias utilizadas:
-Python • SQL • Analytics • Google Sheets
-
----
-
-<h3>👥 Customer Analytics</h3>
-
+### 👥 Customer Analytics
 Projeto de análise de comportamento de clientes para geração de insights de negócio.
 
-Tecnologias utilizadas:
-Python • SQL • Data Analysis
+---
+
+## 🎯 Interesses profissionais
+
+Atualmente busco oportunidades como:
+
+- Tech Lead
+- Gerente de BI / Dados
+- Analytics Engineer
+- Data Engineer
+
+Preferencialmente em empresas **data-driven e com trabalho remoto**.
 
 ---
 
-<h2>🎯 Interesses profissionais</h2>
+## 📫 Contato
 
-Atualmente busco oportunidades relacionadas a:
+📩 <a href="mailto:lusimar.pinheiro.silva@gmail.com" target="_blank">lusimar.pinheiro.silva@gmail.com</a>  
 
-<ul>
-<li>Tech Lead</li>
-<li>Gerente de BI / Dados</li>
-<li>Analytics Engineer</li>
-<li>Data Engineering</li>
-</ul>
-
-Preferencialmente em empresas <b>data-driven</b> e com times de tecnologia maduros.
-
----
-
-<h2>📫 Contato</h2>
-
-<p>
-🔗 LinkedIn: https://linkedin.com/in/lusimar-pinheiro<br>  
-💻 GitHub: https://github.com/lusimar<br>
-📩 <a href="mailto:lusimar.pinheiro.silva@gmail.com">lusimar.pinheiro.silva@gmail.com</a>
-</p>
-
----
-
-<p align="center">
-⭐ Obrigado por visitar meu perfil!
-</p>
+💼 <a href="https://www.linkedin.com/in/lusimar-pinheiro/" target="_blank" >LinkedIn</a>  
+💻 <a href="https://github.com/lusimar" >GitHub</a>
